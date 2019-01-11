@@ -1,3 +1,12 @@
-CircleViewDemo/.idea/
-CircleViewDemo/app/src/androidTest/
-CircleViewDemo/app/src/test/
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+app/src/androidTest/java/com/webview/demo/circleviewdemo/ExampleInstrumentedTest.java
+app/src/test/java/com/webview/demo/circleviewdemo/ExampleUnitTest.java
+.idea/
